@@ -1,0 +1,506 @@
+SP500,Industry
+A UN Equity,Health Care
+AAL UW Equity,Industrials
+AAP UN Equity,Consumer Discretionary
+AAPL UW Equity,Information Technology
+ABBV UN Equity,Health Care
+ABC UN Equity,Health Care
+ABT UN Equity,Health Care
+ACN UN Equity,Information Technology
+ADBE UW Equity,Information Technology
+ADI UW Equity,Information Technology
+ADM UN Equity,Consumer Staples
+ADP UW Equity,Information Technology
+ADS UN Equity,Information Technology
+ADSK UW Equity,Information Technology
+AEE UN Equity,Utilities
+AEP UN Equity,Utilities
+AES UN Equity,Utilities
+AET UN Equity,Health Care
+AFL UN Equity,Financials
+AGN UN Equity,Health Care
+AIG UN Equity,Financials
+AIV UN Equity,Real Estate
+AIZ UN Equity,Financials
+AJG UN Equity,Financials
+AKAM UW Equity,Information Technology
+ALB UN Equity,Materials
+ALGN UW Equity,Health Care
+ALK UN Equity,Industrials
+ALL UN Equity,Financials
+ALLE UN Equity,Industrials
+ALXN UW Equity,Health Care
+AMAT UW Equity,Information Technology
+AMD UR Equity,Information Technology
+AME UN Equity,Industrials
+AMG UN Equity,Financials
+AMGN UW Equity,Health Care
+AMP UN Equity,Financials
+AMT UN Equity,Real Estate
+AMZN UW Equity,Consumer Discretionary
+ANDV UN Equity,Energy
+ANSS UW Equity,Information Technology
+ANTM UN Equity,Health Care
+AON UN Equity,Financials
+AOS UN Equity,Industrials
+APA UN Equity,Energy
+APC UN Equity,Energy
+APD UN Equity,Materials
+APH UN Equity,Information Technology
+APTV UN Equity,Consumer Discretionary
+ARE UN Equity,Real Estate
+ARNC UN Equity,Industrials
+ATVI UW Equity,Information Technology
+AVB UN Equity,Real Estate
+AVGO UW Equity,Information Technology
+AVY UN Equity,Materials
+AWK UN Equity,Utilities
+AXP UN Equity,Financials
+AYI UN Equity,Industrials
+AZO UN Equity,Consumer Discretionary
+BA UN Equity,Industrials
+BAC UN Equity,Financials
+BAX UN Equity,Health Care
+BBT UN Equity,Financials
+BBY UN Equity,Consumer Discretionary
+BDX UN Equity,Health Care
+BEN UN Equity,Financials
+BF/B UN Equity,Consumer Staples
+BHF UW Equity,Financials
+BHGE UN Equity,Energy
+BIIB UW Equity,Health Care
+BK UN Equity,Financials
+BKNG UW Equity,Consumer Discretionary
+BLK UN Equity,Financials
+BLL UN Equity,Materials
+BMY UN Equity,Health Care
+BRK/B UN Equity,Financials
+BSX UN Equity,Health Care
+BWA UN Equity,Consumer Discretionary
+BXP UN Equity,Real Estate
+C UN Equity,Financials
+CA UW Equity,Information Technology
+CAG UN Equity,Consumer Staples
+CAH UN Equity,Health Care
+CAT UN Equity,Industrials
+CB UN Equity,Financials
+CBG UN Equity,Financials
+CBOE UW Equity,Real Estate
+CBS UN Equity,Consumer Discretionary
+CCI UN Equity,Real Estate
+CCL UN Equity,Consumer Discretionary
+CDNS UW Equity,Information Technology
+CELG UW Equity,Health Care
+CERN UW Equity,Health Care
+CF UN Equity,Materials
+CFG UN Equity,Financials
+CHD UN Equity,Consumer Staples
+CHK UN Equity,Energy
+CHRW UW Equity,Industrials
+CHTR UW Equity,Consumer Discretionary
+CI UN Equity,Health Care
+CINF UW Equity,Financials
+CL UN Equity,Consumer Staples
+CLX UN Equity,Consumer Staples
+CMA UN Equity,Financials
+CMCSA UW Equity,Consumer Discretionary
+CME UW Equity,Financials
+CMG UN Equity,Consumer Discretionary
+CMI UN Equity,Industrials
+CMS UN Equity,Utilities
+CNC UN Equity,Health Care
+CNP UN Equity,Utilities
+COF UN Equity,Financials
+COG UN Equity,Energy
+COL UN Equity,Industrials
+COO UN Equity,Health Care
+COP UN Equity,Energy
+COST UW Equity,Consumer Staples
+COTY UN Equity,Consumer Staples
+CPB UN Equity,Consumer Staples
+CRM UN Equity,Information Technology
+CSCO UW Equity,Information Technology
+CSRA UN Equity,Information Technology
+CSX UW Equity,Industrials
+CTAS UW Equity,Industrials
+CTL UN Equity,Telecommunication Services
+CTSH UW Equity,Information Technology
+CTXS UW Equity,Information Technology
+CVS UN Equity,Consumer Staples
+CVX UN Equity,Energy
+CXO UN Equity,Energy
+D UN Equity,Utilities
+DAL UN Equity,Industrials
+DE UN Equity,Industrials
+DFS UN Equity,Financials
+DG UN Equity,Consumer Discretionary
+DGX UN Equity,Health Care
+DHI UN Equity,Consumer Discretionary
+DHR UN Equity,Health Care
+DIS UN Equity,Consumer Discretionary
+DISCA UW Equity,Consumer Discretionary
+DISCK UW Equity,Consumer Discretionary
+DISH UW Equity,Consumer Discretionary
+DLR UN Equity,Real Estate
+DLTR UW Equity,Consumer Discretionary
+DOV UN Equity,Industrials
+DPS UN Equity,Consumer Staples
+DRE UN Equity,Real Estate
+DRI UN Equity,Consumer Discretionary
+DTE UN Equity,Utilities
+DUK UN Equity,Utilities
+DVA UN Equity,Health Care
+DVN UN Equity,Energy
+DWDP UN Equity,Materials
+DXC UN Equity,Information Technology
+EA UW Equity,Information Technology
+EBAY UW Equity,Information Technology
+ECL UN Equity,Materials
+ED UN Equity,Utilities
+EFX UN Equity,Industrials
+EIX UN Equity,Utilities
+EL UN Equity,Consumer Staples
+EMN UN Equity,Materials
+EMR UN Equity,Industrials
+EOG UN Equity,Energy
+EQIX UW Equity,Real Estate
+EQR UN Equity,Real Estate
+EQT UN Equity,Energy
+ES UN Equity,Utilities
+ESRX UW Equity,Health Care
+ESS UN Equity,Real Estate
+ETFC UW Equity,Financials
+ETN UN Equity,Industrials
+ETR UN Equity,Utilities
+EVHC UN Equity,Health Care
+EW UN Equity,Health Care
+EXC UN Equity,Utilities
+EXPD UW Equity,Industrials
+EXPE UW Equity,Consumer Discretionary
+EXR UN Equity,Real Estate
+F UN Equity,Consumer Discretionary
+FAST UW Equity,Industrials
+FB UW Equity,Information Technology
+FBHS UN Equity,Industrials
+FCX UN Equity,Materials
+FDX UN Equity,Industrials
+FE UN Equity,Utilities
+FFIV UW Equity,Information Technology
+FIS UN Equity,Information Technology
+FISV UW Equity,Information Technology
+FITB UW Equity,Financials
+FL UN Equity,Consumer Discretionary
+FLIR UW Equity,Information Technology
+FLR UN Equity,Industrials
+FLS UN Equity,Industrials
+FMC UN Equity,Materials
+FOX UW Equity,Consumer Discretionary
+FOXA UW Equity,Consumer Discretionary
+FRT UN Equity,Real Estate
+FTI UN Equity,Energy
+FTV UN Equity,Industrials
+GD UN Equity,Industrials
+GE UN Equity,Industrials
+GGP UN Equity,Real Estate
+GILD UW Equity,Health Care
+GIS UN Equity,Consumer Staples
+GLW UN Equity,Information Technology
+GM UN Equity,Consumer Discretionary
+GOOG UW Equity,Information Technology
+GOOGL UW Equity,Information Technology
+GPC UN Equity,Consumer Discretionary
+GPN UN Equity,Information Technology
+GPS UN Equity,Consumer Discretionary
+GRMN UW Equity,Consumer Discretionary
+GS UN Equity,Financials
+GT UW Equity,Consumer Discretionary
+GWW UN Equity,Industrials
+HAL UN Equity,Energy
+HAS UW Equity,Consumer Discretionary
+HBAN UW Equity,Financials
+HBI UN Equity,Consumer Discretionary
+HCA UN Equity,Health Care
+HCP UN Equity,Real Estate
+HD UN Equity,Consumer Discretionary
+HES UN Equity,Energy
+HIG UN Equity,Financials
+HII UN Equity,Industrials
+HLT UN Equity,Consumer Discretionary
+HOG UN Equity,Consumer Discretionary
+HOLX UW Equity,Health Care
+HON UN Equity,Industrials
+HP UN Equity,Energy
+HPE UN Equity,Information Technology
+HPQ UN Equity,Information Technology
+HRB UN Equity,Financials
+HRL UN Equity,Consumer Staples
+HRS UN Equity,Information Technology
+HSIC UW Equity,Health Care
+HST UN Equity,Real Estate
+HSY UN Equity,Consumer Staples
+HUM UN Equity,Health Care
+IBM UN Equity,Information Technology
+ICE UN Equity,Financials
+IDXX UW Equity,Health Care
+IFF UN Equity,Materials
+ILMN UW Equity,Health Care
+INCY UW Equity,Health Care
+INFO UW Equity,Industrials
+INTC UW Equity,Information Technology
+INTU UW Equity,Information Technology
+IP UN Equity,Materials
+IPG UN Equity,Consumer Discretionary
+IQV UN Equity,Health Care
+IR UN Equity,Industrials
+IRM UN Equity,Real Estate
+ISRG UW Equity,Health Care
+IT UN Equity,Information Technology
+ITW UN Equity,Industrials
+IVZ UN Equity,Financials
+JBHT UW Equity,Industrials
+JCI UN Equity,Industrials
+JEC UN Equity,Industrials
+JNJ UN Equity,Health Care
+JNPR UN Equity,Information Technology
+JPM UN Equity,Financials
+JWN UN Equity,Consumer Discretionary
+K UN Equity,Consumer Staples
+KEY UN Equity,Financials
+KHC UW Equity,Consumer Staples
+KIM UN Equity,Real Estate
+KLAC UW Equity,Information Technology
+KMB UN Equity,Consumer Staples
+KMI UN Equity,Energy
+KMX UN Equity,Consumer Discretionary
+KO UN Equity,Consumer Staples
+KORS UN Equity,Consumer Discretionary
+KR UN Equity,Consumer Staples
+KSS UN Equity,Consumer Discretionary
+KSU UN Equity,Industrials
+L UN Equity,Financials
+LB UN Equity,Consumer Discretionary
+LEG UN Equity,Consumer Discretionary
+LEN UN Equity,Consumer Discretionary
+LH UN Equity,Health Care
+LKQ UW Equity,Consumer Discretionary
+LLL UN Equity,Industrials
+LLY UN Equity,Health Care
+LMT UN Equity,Industrials
+LNC UN Equity,Financials
+LNT UN Equity,Utilities
+LOW UN Equity,Consumer Discretionary
+LRCX UW Equity,Information Technology
+LUK UN Equity,Financials
+LUV UN Equity,Industrials
+LYB UN Equity,Materials
+M UN Equity,Consumer Discretionary
+MA UN Equity,Information Technology
+MAA UN Equity,Real Estate
+MAC UN Equity,Real Estate
+MAR UW Equity,Consumer Discretionary
+MAS UN Equity,Industrials
+MAT UW Equity,Consumer Discretionary
+MCD UN Equity,Consumer Discretionary
+MCHP UW Equity,Information Technology
+MCK UN Equity,Health Care
+MCO UN Equity,Financials
+MDLZ UW Equity,Consumer Staples
+MDT UN Equity,Health Care
+MET UN Equity,Financials
+MGM UN Equity,Consumer Discretionary
+MHK UN Equity,Consumer Discretionary
+MKC UN Equity,Consumer Staples
+MLM UN Equity,Materials
+MMC UN Equity,Financials
+MMM UN Equity,Industrials
+MNST UW Equity,Consumer Staples
+MO UN Equity,Consumer Staples
+MON UN Equity,Materials
+MOS UN Equity,Materials
+MPC UN Equity,Energy
+MRK UN Equity,Health Care
+MRO UN Equity,Energy
+MS UN Equity,Financials
+MSFT UW Equity,Information Technology
+MSI UN Equity,Information Technology
+MTB UN Equity,Financials
+MTD UN Equity,Health Care
+MU UW Equity,Information Technology
+MYL UW Equity,Health Care
+NAVI UW Equity,Financials
+NBL UN Equity,Energy
+NCLH UN Equity,Consumer Discretionary
+NDAQ UW Equity,Financials
+NEE UN Equity,Utilities
+NEM UN Equity,Materials
+NFLX UW Equity,Information Technology
+NFX UN Equity,Energy
+NI UN Equity,Utilities
+NKE UN Equity,Consumer Discretionary
+NLSN UN Equity,Industrials
+NOC UN Equity,Industrials
+NOV UN Equity,Energy
+NRG UN Equity,Utilities
+NSC UN Equity,Industrials
+NTAP UW Equity,Information Technology
+NTRS UW Equity,Financials
+NUE UN Equity,Materials
+NVDA UW Equity,Information Technology
+NWL UN Equity,Consumer Discretionary
+NWS UW Equity,Consumer Discretionary
+NWSA UW Equity,Consumer Discretionary
+O UN Equity,Real Estate
+OKE UN Equity,Energy
+OMC UN Equity,Consumer Discretionary
+ORCL UN Equity,Information Technology
+ORLY UW Equity,Consumer Discretionary
+OXY UN Equity,Energy
+PAYX UW Equity,Information Technology
+PBCT UW Equity,Financials
+PCAR UW Equity,Industrials
+PCG UN Equity,Utilities
+PDCO UW Equity,Health Care
+PEG UN Equity,Utilities
+PEP UW Equity,Consumer Staples
+PFE UN Equity,Health Care
+PFG UW Equity,Financials
+PG UN Equity,Consumer Staples
+PGR UN Equity,Financials
+PH UN Equity,Industrials
+PHM UN Equity,Consumer Discretionary
+PKG UN Equity,Materials
+PKI UN Equity,Health Care
+PLD UN Equity,Real Estate
+PM UN Equity,Consumer Staples
+PNC UN Equity,Financials
+PNR UN Equity,Industrials
+PNW UN Equity,Utilities
+PPG UN Equity,Materials
+PPL UN Equity,Utilities
+PRGO UN Equity,Health Care
+PRU UN Equity,Financials
+PSA UN Equity,Real Estate
+PSX UN Equity,Energy
+PVH UN Equity,Consumer Discretionary
+PWR UN Equity,Industrials
+PX UN Equity,Materials
+PXD UN Equity,Energy
+PYPL UW Equity,Information Technology
+QCOM UW Equity,Information Technology
+QRVO UW Equity,Information Technology
+RCL UN Equity,Consumer Discretionary
+RE UN Equity,Financials
+REG UN Equity,Real Estate
+REGN UW Equity,Health Care
+RF UN Equity,Financials
+RHI UN Equity,Industrials
+RHT UN Equity,Information Technology
+RJF UN Equity,Financials
+RL UN Equity,Consumer Discretionary
+RMD UN Equity,Health Care
+ROK UN Equity,Industrials
+ROP UN Equity,Industrials
+ROST UW Equity,Consumer Discretionary
+RRC UN Equity,Energy
+RSG UN Equity,Industrials
+RTN UN Equity,Industrials
+SBAC UW Equity,Real Estate
+SBUX UW Equity,Consumer Discretionary
+SCG UN Equity,Utilities
+SCHW UN Equity,Financials
+SEE UN Equity,Materials
+SHW UN Equity,Materials
+SIG UN Equity,Consumer Discretionary
+SJM UN Equity,Consumer Staples
+SLB UN Equity,Energy
+SLG UN Equity,Real Estate
+SNA UN Equity,Consumer Discretionary
+SNI UW Equity,Telecommunication Services
+SNPS UW Equity,Information Technology
+SO UN Equity,Utilities
+SPG UN Equity,Real Estate
+SPGI UN Equity,Financials
+SRCL UW Equity,Industrials
+SRE UN Equity,Utilities
+STI UN Equity,Financials
+STT UN Equity,Financials
+STX UW Equity,Information Technology
+STZ UN Equity,Consumer Staples
+SWK UN Equity,Consumer Discretionary
+SWKS UW Equity,Information Technology
+SYF UN Equity,Financials
+SYK UN Equity,Health Care
+SYMC UW Equity,Information Technology
+SYY UN Equity,Consumer Staples
+T UN Equity,Telecommunication Services
+TAP UN Equity,Consumer Staples
+TDG UN Equity,Industrials
+TEL UN Equity,Information Technology
+TGT UN Equity,Consumer Discretionary
+TIF UN Equity,Consumer Discretionary
+TJX UN Equity,Consumer Discretionary
+TMK UN Equity,Financials
+TMO UN Equity,Health Care
+TPR UN Equity,Consumer Discretionary
+TRIP UW Equity,Consumer Discretionary
+TROW UW Equity,Financials
+TRV UN Equity,Financials
+TSCO UW Equity,Consumer Discretionary
+TSN UN Equity,Consumer Staples
+TSS UN Equity,Information Technology
+TWX UN Equity,Consumer Discretionary
+TXN UW Equity,Information Technology
+TXT UN Equity,Industrials
+UA UN Equity,Consumer Discretionary
+UAA UN Equity,Consumer Discretionary
+UAL UN Equity,Industrials
+UDR UN Equity,Real Estate
+UHS UN Equity,Health Care
+ULTA UW Equity,Consumer Discretionary
+UNH UN Equity,Health Care
+UNM UN Equity,Financials
+UNP UN Equity,Industrials
+UPS UN Equity,Industrials
+URI UN Equity,Industrials
+USB UN Equity,Financials
+UTX UN Equity,Industrials
+V UN Equity,Information Technology
+VAR UN Equity,Health Care
+VFC UN Equity,Consumer Discretionary
+VIAB UW Equity,Consumer Discretionary
+VLO UN Equity,Energy
+VMC UN Equity,Materials
+VNO UN Equity,Real Estate
+VRSK UW Equity,Industrials
+VRSN UW Equity,Information Technology
+VRTX UW Equity,Health Care
+VTR UN Equity,Real Estate
+VZ UN Equity,Telecommunication Services
+WAT UN Equity,Health Care
+WBA UW Equity,Consumer Staples
+WDC UW Equity,Information Technology
+WEC UN Equity,Utilities
+WELL UN Equity,Real Estate
+WFC UN Equity,Financials
+WHR UN Equity,Consumer Discretionary
+WLTW UW Equity,Financials
+WM UN Equity,Industrials
+WMB UN Equity,Energy
+WMT UN Equity,Consumer Staples
+WRK UN Equity,Materials
+WU UN Equity,Information Technology
+WY UN Equity,Real Estate
+WYN UN Equity,Consumer Discretionary
+WYNN UW Equity,Consumer Discretionary
+XEC UN Equity,Energy
+XEL UW Equity,Utilities
+XL UN Equity,Financials
+XLNX UW Equity,Information Technology
+XOM UN Equity,Energy
+XRAY UW Equity,Health Care
+XRX UN Equity,Information Technology
+XYL UN Equity,Industrials
+YUM UN Equity,Consumer Discretionary
+ZBH UN Equity,Health Care
+ZION UW Equity,Financials
+ZTS UN Equity,Health Care
